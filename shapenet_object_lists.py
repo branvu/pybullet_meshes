@@ -545,6 +545,24 @@ BIN_SORT_OBJECTS = [
     'toilet_bowl',
     'pepsi_bottle',
     'shed',
+    'colunnade_top',
+    'stalagcite_chunk',
+    'bongo_drum_bowl',
+    'pacifier_vase',
+    'beehive_funnel',
+    'crooked_lid_trash_can',
+    'double_l_faucet',
+    'flowery_half_donut',
+    't_cup',
+    'two_handled_vase',
+    'tongue_chair',
+    'square_prism_bin',
+    'thick_wood_chair',
+    'modern_canoe',
+    'pear_ringed_vase',
+    'short_handle_cup',
+    'curved_handle_cup',
+    'jar'
 ]
 
 BIN_SORT_OBJECTS_NOISE = [
@@ -556,6 +574,24 @@ BIN_SORT_OBJECTS_NOISE = [
     0.6,
     0.9,
     0.5,
+    0.8,
+    0.4,
+    0.3,
+    0.7,
+    0.1,
+    0.6,
+    0.9,
+    0.5,
+     0.8,
+    0.4,
+    0.3,
+    0.7,
+    0.1,
+    0.6,
+    0.9,
+    0.5,
+    0.5,
+    0.5
 ]
 
 assert len(BIN_SORT_OBJECTS) == len(BIN_SORT_OBJECTS_NOISE)
