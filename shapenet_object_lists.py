@@ -558,7 +558,7 @@ BIN_SORT_OBJECTS = [
     'tongue_chair',
     'square_prism_bin',
     'thick_wood_chair',
-    'modern_canoe',
+    'box_sofa',
     'pear_ringed_vase',
     'short_handle_cup',
     'curved_handle_cup',
