@@ -537,32 +537,33 @@ for key, value in CONTAINER_CONFIGS_DIVERSE.items():
 # 'pear_ringed_vase',
 
 BIN_SORT_OBJECTS = [
-    'ball',
-    'circular_table',
-    'conic_cup',
-    'aero_cylinder',
-    'fountain_vase',
-    'toilet_bowl',
-    'pepsi_bottle',
-    'shed',
-    'colunnade_top',
-    'stalagcite_chunk',
-    'bongo_drum_bowl',
-    'pacifier_vase',
-    'beehive_funnel',
-    'crooked_lid_trash_can',
-    'double_l_faucet',
-    'flowery_half_donut',
-    't_cup',
-    'two_handled_vase',
-    'tongue_chair',
-    'square_prism_bin',
-    'thick_wood_chair',
-    'box_sofa',
-    'pear_ringed_vase',
-    'short_handle_cup',
-    'curved_handle_cup',
-    'jar'
+    'ball',             # green_ball
+    'circular_table',   # blue_hourglass
+    'conic_cup',        # white_stub
+    'aero_cylinder',    # glass_cylinder
+    'fountain_vase',    # golden_vase
+    'toilet_bowl',      # white_toilet
+    'pepsi_bottle',     # red_pepsi
+    'shed',             # brown_box
+    'colunnade_top',    # silver_fountain
+    'stalagcite_chunk', # white_column
+    'bongo_drum_bowl',  # red_drum
+    'pacifier_vase',    # white_vase
+    'beehive_funnel',   # brown_beehive
+    'crooked_lid_trash_can', # gray_trashcan
+    'double_l_faucet',  # silver_faucet
+    'flowery_half_donut', # cyan_donut
+    't_cup',            # azure_cup
+    'two_handled_vase', # yellow_vase
+    'tongue_chair',     # red_chair
+    'square_prism_bin', # brown_bin
+    'thick_wood_chair', # wood_bench
+    'box_sofa',         # maroon_sofa
+    'pear_ringed_vase', # orange_piece
+    'short_handle_cup', # blue_cup
+    'curved_handle_cup', # pink_tea_cup
+    'jar',              # peanut_jar
+    'baseball_cap',     # golden_hat
 ]
 
 BIN_SORT_OBJECTS_NOISE = [
@@ -589,6 +590,7 @@ BIN_SORT_OBJECTS_NOISE = [
     0.1,
     0.6,
     0.9,
+    0.5,
     0.5,
     0.5,
     0.5
