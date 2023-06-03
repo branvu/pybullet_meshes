@@ -587,7 +587,8 @@ BIN_SORT_OBJECTS = [
     'short_handle_cup', # blue_cup
     'curved_handle_cup', # pink_tea_cup
     'jar',              # peanut_jar
-    'baseball_cap',     # golden_hat
+    'baseball_cap',     # golden_hat,
+    'spam' # spam
 ]
 
 BIN_SORT_OBJECTS_NOISE = [
@@ -614,6 +615,7 @@ BIN_SORT_OBJECTS_NOISE = [
     0.1,
     0.6,
     0.9,
+    0.5,
     0.5,
     0.5,
     0.5,
@@ -798,6 +800,7 @@ OBJECT_SCALINGS = {
     'elliptical_capsule': 0.6,
     'aero_cylinder': 0.5,
     'grill_trash_can': 0.5,
+    'spam': 0.019
 }
 
 TEST_OBJECTS = [
@@ -878,6 +881,7 @@ OBJECT_ORIENTATIONS = {
     't_cup': (0, 0.707, 0.707, 0),
     'cookie_circular_lidless_tin': (0, 0, 1, 0),
     'box_sofa': (0, 0, 1, 0),
+    'spam': (0, 0, 1, 0),
     'baseball_cap': (0, -0.707, 0.707, 0),
     'two_layered_lampshade': (0, 0.707, 0.707, 0),
 
