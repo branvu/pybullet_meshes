@@ -588,7 +588,10 @@ BIN_SORT_OBJECTS = [
     'curved_handle_cup', # pink_tea_cup
     'jar',              # peanut_jar
     'baseball_cap',     # golden_hat,
-    'spam' # spam
+    'spam', # spam
+    'smushed_dumbbell', 
+    'bathtub',
+    'trapezoidal_bin'
 ]
 
 BIN_SORT_OBJECTS_NOISE = [
@@ -615,6 +618,9 @@ BIN_SORT_OBJECTS_NOISE = [
     0.1,
     0.6,
     0.9,
+    0.5,
+    0.5,
+    0.5,
     0.5,
     0.5,
     0.5,
